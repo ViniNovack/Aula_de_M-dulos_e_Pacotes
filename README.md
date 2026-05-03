@@ -35,10 +35,6 @@ This repository documents my learning process of writing clean, well-structured 
 - 📄 **Modules** — creating and importing `.py` files as modules
 - 📦 **Packages** — organizing modules into structured directories with `__init__.py`
 - 🔁 **Relative & Absolute Imports** — understanding how Python resolves imports
-- 🌍 **Virtual Environments** — isolating project dependencies
-- 📋 **`requirements.txt`** — managing and sharing dependencies
-- 🚀 **`setup.py` / `pyproject.toml`** — packaging projects for distribution
-- And more as the journey continues...
 
 ---
 
